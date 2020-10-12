@@ -1,2 +1,4 @@
+this is on branch abc
+
 now we add text to the about text page and we r trying to skip the staging area 
 and directly commiting it the git  
